@@ -15,8 +15,8 @@ The project shows how to:
 ## How to Run
 
 1. Install the required libraries:
-```bash
-pip install torch sentence-transformers transformers
+```
+!pip install sentence-transformers transformers torch
 ```
 2. Open and run the ```mini_rag_system.ipynb``` notebook in Jupyter or Colab.
 3. Modify the ```knowledge_base``` or ```test_questions variables``` to try your own questions.
